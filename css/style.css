@@ -1,0 +1,42 @@
+.container{
+    margin-top: 100px;
+    margin-left: 375px;
+}
+.card{
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    outline: solid 2px black;
+    float: left;
+    
+}
+.image{
+    width: 250px;
+    height: 125px;
+    outline: solid 1px black;
+}
+.info{
+    background-color: #87c1ff;
+    width: 250px;
+    height: 125px;
+    size: fixed;
+    padding: 10px;
+}
+#country-image{
+    width: 250px;
+    height: 125px;
+}
+#input{
+    height: 40px;
+    width: 400px;
+    margin-top: 250px;
+    margin-left: 325px;
+    border-radius: 20%;
+    border-start-start-radius: 100px;
+    border-start-end-radius: 100px;
+    border-end-start-radius: 100px;
+    border-end-end-radius: 100px;
+    text-align: left;
+    padding-left: 20px;
+    padding-bottom: 3px;
+}
